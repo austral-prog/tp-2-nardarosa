@@ -7,7 +7,7 @@ def change():
     centavos = vuelto[position + 1:]
     print("Ingresar gasto:")
     print(f"{expense}")
-    print("Dinero recibido:")
+    print("Dinero recibido")
     print(f"{money}")
     print(" ")
     print("Vuelto:")
